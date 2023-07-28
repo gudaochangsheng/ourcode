@@ -1,6 +1,6 @@
 # Description
-Our code is built on an open source repository. 
-To prevent violating the rules of double-blind review, we have not given a link to the open source repository. 
+Our code is built on an open source repository[OpenGait](https://github.com/ShiqiYu/OpenGait). This is the code for the paper [GaitMM: Multi-Granularity Motion Sequence Learning for Gait Recognition](https://arxiv.org/abs/2209.08470).
+
 # Operating Environments
 ## Hardware Environment
 Our code is running on a server with 2 GeForce RTX 3090 GPUs 
