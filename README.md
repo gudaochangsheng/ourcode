@@ -22,6 +22,18 @@ The configuration file is [config/gaitfm.yaml](config/gaitfm.yaml).
 ## For the OUMVLP dataset
 The configuration file is [config/gaitfm_OUMVLP.yaml](config/gaitfm_OUMVLP.yaml).
 
+# Citation
+```
+@inproceedings{wang2023gaitmm,
+  title={GAITMM: Multi-Granularity Motion Sequence Learning for Gait Recognition},
+  author={Wang, Lei and Liu, Bo and Wang, Bincheng and Yu, Fuqiang},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={845--849},
+  year={2023},
+  organization={IEEE}
+}
+```
+
 
 
 
