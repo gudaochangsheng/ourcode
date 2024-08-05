@@ -1,6 +1,9 @@
 # Description
 Our code is built on an open source repository[OpenGait](https://github.com/ShiqiYu/OpenGait). This is the code for the paper [GaitMM: Multi-Granularity Motion Sequence Learning for Gait Recognition](https://arxiv.org/abs/2209.08470).
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gaitfm-fine-grained-motion-representation-for/gait-recognition-on-oumvlp)](https://paperswithcode.com/sota/gait-recognition-on-oumvlp?p=gaitfm-fine-grained-motion-representation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gaitfm-fine-grained-motion-representation-for/multiview-gait-recognition-on-casia-b)](https://paperswithcode.com/sota/multiview-gait-recognition-on-casia-b?p=gaitfm-fine-grained-motion-representation-for)
+
 # Operating Environments
 ## Hardware Environment
 Our code is running on a server with 2 GeForce RTX 3090 GPUs 
